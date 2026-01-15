@@ -1,4 +1,4 @@
-# This code is used to delete snapshots of EBSs that are not connected to any EC2 instance.
+# Herhangi bir EC2 instance'ına bağlı olmayan EBS volume'larını silmek amaçlı yazılmış AWS Lambda kod parçasıdır.
 # Original Source: https://github.com/iam-veeramalla/aws-devops-zero-to-hero/blob/main/day-18/ebs_stale_snapshosts.py
 
 import boto3
