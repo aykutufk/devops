@@ -1,5 +1,11 @@
-# AWS EKS PRACTICE / via: https://github.com/iam-veeramalla/aws-devops-zero-to-hero/tree/main/day-22 
+# 📜 Credits & Attributions
+This project was implemented as part of my learning journey in the "AWS DevOps Zero to Hero" course.
 
+Original Author: Abhishek Veeramalla
+
+Source Repository: aws-devops-zero-to-hero
+
+I have manually built, configured, and tested this lab environment on my personal AWS account to gain practical experience in cloud automation and event-driven architectures.
 ## Introduction
 
 ## Table of Contents:
