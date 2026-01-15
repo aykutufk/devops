@@ -1,4 +1,4 @@
-# AWS EKS 
+# AWS EKS PRACTICE / via: https://github.com/iam-veeramalla/aws-devops-zero-to-hero/tree/main/day-22 
 
 ## Introduction
 
